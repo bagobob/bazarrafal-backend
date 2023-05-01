@@ -28,6 +28,13 @@
     },
     "description": {
       "type": "richtext"
+    },
+    "imgsrc": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
     }
   }
 }
